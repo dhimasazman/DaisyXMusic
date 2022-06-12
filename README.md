@@ -141,8 +141,4 @@ Also DaisyXmusic is inspired by many opensource bots and userbots
 DaisyXMusic is Free Software: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.    
 ## Made with ♥️ by [TeamDaisyX](https://github.com/TeamDaisyX)
 
-![Telegram]()
-
-<a href="https://t.me/erojistrix">Contact me</><img src="[https://img.shields.io/badge/Owner-black.svg?style=for-the-badge&logo=Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)">
-
-<a href="url">link text</a>
+[![Telegram Group](https://img.shields.io/endpoint?color=neon&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fsumanbots)](https://telegram.dog/azumanprojects)
